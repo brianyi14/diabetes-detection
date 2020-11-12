@@ -1,1 +1,3 @@
 # diabetes-detection
+
+In the past thirty years, there have been many advancements in the field of biology as a result of new technologies and the proliferation of big data. Machine learning has also become a very popular integration into the sciences, and rare disease detection models are no exception. This study focuses on including novel mental health risk factors as features in a diabetes detection model based on the National Health and Nutrition Examination Survey data from the CDC. Many Classification and Regression Trees (CART) are built with different features and hyperparameters to explore the effectiveness of various diabetes risk factors in detection modeling.
